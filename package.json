@@ -1,0 +1,23 @@
+{
+  "name": "slicer-game-bot",
+  "version": "1.0.0",
+  "description": "bot for mobile game slicer, tested with scrcpy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TABmk/slicer-game-bot.git"
+  },
+  "author": "TAB_mk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TABmk/slicer-game-bot/issues"
+  },
+  "homepage": "https://github.com/TABmk/slicer-game-bot#readme",
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "sleep": "^5.2.3"
+  }
+}
